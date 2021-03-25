@@ -1,0 +1,26 @@
+.output {
+  width: 400px;
+  border: solid 5px green;
+  height: 190px;
+  overflow-y: scroll;
+}
+
+.subtitle {
+  margin: 0 auto ;
+  text-transform: uppercase;
+  color: green;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: greenyellow;
+  box-shadow: 0 5px 10px green;
+}
+
+.list {
+  text-align: left;
+}
+
+.list-item {
+  font-size: 12px;
+  color: green;
+}
